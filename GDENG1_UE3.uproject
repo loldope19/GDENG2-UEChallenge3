@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.1",
+	"EngineAssociation": "5.3",
 	"Category": "",
 	"Description": "",
 	"Enterprise": true,
@@ -39,17 +39,6 @@
 			"SupportedTargetPlatforms": [
 				"Win64"
 			]
-		},
-		{
-			"Name": "DatasmithIFCImporter",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64"
-			]
-		},
-		{
-			"Name": "DatasmithGLTFImporter",
-			"Enabled": true
 		},
 		{
 			"Name": "AxFImporter",
