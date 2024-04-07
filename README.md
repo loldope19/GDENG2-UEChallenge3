@@ -1,4 +1,8 @@
-# GDENG1-UEChallenge3
-GDENG1-UE Challenge 3 Template
+# GDENG02-UEChallenge3
 
-Access **Unfurnished Room.umap** which is your starting map/template.
+“Check out the virtual room created by our students for their GDENG02 course!
+<Your caption>
+Created by <Group Name>
+Members:
+Sydrenz Cao
+Kevin ShuToo”
