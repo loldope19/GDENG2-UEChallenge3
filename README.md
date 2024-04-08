@@ -5,6 +5,6 @@
 Relax and live your best life in this cozy apartment that is sure to help you make your day, every day!
 
 Created by: Unreal Crashers
+
 Members:
-Sydrenz Cao
-Kevin ShuToo”
+Sydrenz Cao, Kevin ShuToo”
